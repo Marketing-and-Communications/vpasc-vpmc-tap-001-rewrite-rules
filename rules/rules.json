@@ -4,7 +4,7 @@
     "/Programs/Gateway /programs/gateway.html [R=301,L,NC]",
     "/Programs/TEAM /programs/team.html [R=301,L,NC]",
     "/Programs/Explore-101 /programs/explore.html [R=301,L,NC]",
-    "/Programs /programs/index.html [R=301,L,NC]",
+    "^/Programs$ /programs/index.html [R=301,L,NC]",
     "/Change-of-Major2/Agriculture-Life-Sciences /change-of-major/agriculture-life-sciences.html [R=301,L,NC]",
     "/Change-of-Major2/Architecture /change-of-major/architecture.html [R=301,L,NC]",
     "/Change-of-Major2/Mays-Business-School /change-of-major/mays-business-school.html [R=301,L,NC]",
